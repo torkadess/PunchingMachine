@@ -1,0 +1,1 @@
+placer le dossier hx711 dans ../lib/bsp
